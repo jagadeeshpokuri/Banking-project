@@ -1,0 +1,72 @@
+1) Find mean of the variable age. Round off to 2 decimal places.
+
+Ans- 40.91
+
+
+2) Total number of outliers present in the variable balance.Use ‘Q1-1.5*IQR’ to calculate lower limit and ‘Q3 + 1.5×IQR’ to calculate upper limit.
+Calculate the count of values in variable balance which are beyond these limits.
+
+Ans-3329
+
+
+3) Find the variance of variable balance.
+
+Ans-9273256
+
+
+4) which function is used to remove multicollinearity among variables?
+
+Note: Answers are not case sensitive.
+
+Ans-vif
+
+
+5) Model with 'lower AIC' value is a better model or the model with 'higher AIC' value?
+
+Note: Write either 'lower AIC' or 'higher AIC', any further details will result in your answer being marked as wrong. 
+Answers are not case sensitive . 
+
+Ans-lower AIC
+
+
+6) Should the variable ID be included in building the model?
+
+Note : Just write 'Yes' or 'No' . If you write sentences , automated grading will consider it incorrect .Answers are not case sensitive
+
+Ans- No
+
+
+7) Does validation help in generalising the model?
+
+Note : Just write 'Yes' or 'No' . If you write sentences , automated grading will consider it incorrect .Answers are not case sensitive . 
+
+Ans- Yes
+
+
+8) Whether the data given (train data) is a balanced or extremely imbalanced data( ratio of response class counts even more extreme than 5%:95%)? 
+
+Note: you need to write either 'Balanced' or 'Imbalanced' . Any further details will result in your answer being marked as wrong. Answers are not case sensitive . 
+
+
+Ans-Balanced
+
+
+9) How is box plot upper whisker is calculated ? Choose out of these:
+
+Select one:
+a. Q3 + 1.5×IQR
+b. Q3 + 3*IQR
+c. mean + 2*sd
+
+Ans- a. Q3 + 1.5×IQR
+
+
+10) R2 or adjusted R2, which metric to be used to check goodness of the model?
+
+Note: Answers are not case sensitive . 
+
+Ans- adjusted R2
+
+
+
+
